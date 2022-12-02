@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-juan",
+  "version": "1.0.0",
+  "description": "Random String Messages By Juan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Makrom25/random-str-msg-juan.git"
+  },
+  "keywords": [],
+  "author": "Juan Camilo Ramirez Arias <jcra.juancamilo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Makrom25/random-str-msg-juan/issues"
+  },
+  "homepage": "https://github.com/Makrom25/random-str-msg-juan#readme",
+  "bin": {
+    "random-str-msg-juan": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
